@@ -18,7 +18,7 @@ Performance before and after fine-tuning is reported for relevant metrics.
 | Abhyudaya, Vinayak     | Fine-tuned the model for SST-2 classification and implemented metric evaluation. |
 | Suriya, Vedant       | Fine-tuned the model for SQuAD Question Answering and performed post-evaluation analysis. |
 | Shiva, Vinayak         | Analyzed performance differences between zero-shot and fine-tuned models and wrote rationale. |
-| Shiva        | Organized final report, managed repository, and handled the model push to 🤗 Hub.  |
+| Shiva, Abhyudaya       | Organized final report, managed repository, and handled the model push to 🤗 Hub.  |
 
 ---
 

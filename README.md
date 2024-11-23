@@ -14,9 +14,9 @@ Performance before and after fine-tuning is reported for relevant metrics.
 
 | Team Member         | Contributions                                                                 |
 |----------------------|------------------------------------------------------------------------------|
-| Suriya, Vedant        | Calculated parameters for the Llama3.2-1B model and verified them with the paper. |
+| Surriya, Vedant        | Calculated parameters for the Llama3.2-1B model and verified them with the paper. |
 | Abhyudaya, Vinayak     | Fine-tuned the model for SST-2 classification and implemented metric evaluation. |
-| Suriya, Vedant       | Fine-tuned the model for SQuAD Question Answering and performed post-evaluation analysis. |
+| Surriya, Vedant       | Fine-tuned the model for SQuAD Question Answering and performed post-evaluation analysis. |
 | Shiva, Vinayak         | Analyzed performance differences between zero-shot and fine-tuned models and wrote rationale. |
 | Shiva, Abhyudaya       | Organized final report, managed repository, and handled the model push to 🤗 Hub.  |
 
@@ -44,5 +44,6 @@ Performance before and after fine-tuning is reported for relevant metrics.
    - Examined parameter differences before and after fine-tuning.  
 
 5. **Model Deployment**  
-   - Fine-tuned model uploaded to 🤗 Hub.  
+   - Fine-tuned model uploaded to 🤗 Hub.
+   - Question-Answering: https://huggingface.co/VedantSharan/llama_for_QnA
 

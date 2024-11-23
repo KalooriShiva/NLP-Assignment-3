@@ -1,6 +1,7 @@
 # **CS 613: NLP - Assignment 3**  
-## **Fine Tuning & Evaluation**
-
+### Important Links :
+Huggingface for SST-2 classification :[Link-1](https://huggingface.co/abhyudaya-nair/llama_3.2_fine_tuning/tree/main)
+Huggingface for SQuAD : [Link2](https://huggingface.co/VedantSharan/llama_for_QnA/tree/main)
 ### **Assignment Overview**
 This assignment involves fine-tuning a pre-trained language model (Llama3.2-1B/Gemma) for two tasks:  
 1. Sentiment Classification (SST-2 dataset).  
